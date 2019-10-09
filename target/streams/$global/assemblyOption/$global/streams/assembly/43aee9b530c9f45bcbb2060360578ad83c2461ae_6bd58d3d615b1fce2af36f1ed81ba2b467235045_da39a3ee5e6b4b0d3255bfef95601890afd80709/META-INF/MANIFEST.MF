@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-Description: The AWS Event Stream decoder library.
+Automatic-Module-Name: software.amazon.eventstream
+Bundle-License: https://aws.amazon.com/apache2.0
+Bundle-SymbolicName: software.amazon.flow
+Built-By: tomcat
+Bnd-LastModified: 1542146489253
+Bundle-ManifestVersion: 2
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.5.0.201709291849
+Export-Package: software.amazon.eventstream;version="1.7.0"
+Bundle-Name: AWS Event Stream
+Bundle-Version: 1.7.0
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_111
+
