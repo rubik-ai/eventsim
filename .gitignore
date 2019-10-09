@@ -9,7 +9,7 @@ out
 .cache/
 .history/
 .lib/
-dist/*
+
 target/
 bin/
 libexec/
